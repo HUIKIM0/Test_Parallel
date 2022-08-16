@@ -1,0 +1,10 @@
+D:\dev\C#Work\Test_Parallel\Test_Parallel\bin\Debug\Test_Parallel.exe.config
+D:\dev\C#Work\Test_Parallel\Test_Parallel\bin\Debug\Test_Parallel.exe
+D:\dev\C#Work\Test_Parallel\Test_Parallel\bin\Debug\Test_Parallel.pdb
+D:\dev\C#Work\Test_Parallel\Test_Parallel\obj\Debug\Test_Parallel.csproj.AssemblyReference.cache
+D:\dev\C#Work\Test_Parallel\Test_Parallel\obj\Debug\Test_Parallel.Form1.resources
+D:\dev\C#Work\Test_Parallel\Test_Parallel\obj\Debug\Test_Parallel.Properties.Resources.resources
+D:\dev\C#Work\Test_Parallel\Test_Parallel\obj\Debug\Test_Parallel.csproj.GenerateResource.cache
+D:\dev\C#Work\Test_Parallel\Test_Parallel\obj\Debug\Test_Parallel.csproj.CoreCompileInputs.cache
+D:\dev\C#Work\Test_Parallel\Test_Parallel\obj\Debug\Test_Parallel.exe
+D:\dev\C#Work\Test_Parallel\Test_Parallel\obj\Debug\Test_Parallel.pdb
