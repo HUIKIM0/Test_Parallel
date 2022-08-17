@@ -56,7 +56,8 @@ namespace Test_Parallel
         }
 
         
-        // Thread
+        // Thread. 분산처리는 별도 Thread안에 담아서 써야함
+        // 여기선 switch로 case 나눠서 new Thread해줌
         private void pThread(enCase eCase)
         {
             Log(lboxTime, enLogLevel.Info, string.Format("Thread Start"));
@@ -75,10 +76,12 @@ namespace Test_Parallel
                     _thread = new Thread(TpFor);
                     _thread.Start();
                     break;
+
                 case enCase.pForeach:
                     _thread = new Thread(TpForeach);
                     _thread.Start();
                     break;
+
                 case enCase.pInvoke:
                     _thread = new Thread(TpInvoke);
                     _thread.Start();
